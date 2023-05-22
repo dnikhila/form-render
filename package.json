@@ -1,5 +1,9 @@
 {
-  "name": "form-render-ui",
+  "name": "form-render-ui-testing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnikhila/form-render.git"
+  },
   "version": "1.0.0",
   "description": "Form Render",
   "type": "module",
